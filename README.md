@@ -2,5 +2,6 @@
 my tmux conf
 
 dependencies - 
-netstat
-numfmt
+netstat,
+numfmt,
+agnoster(theme)
