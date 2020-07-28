@@ -1,7 +1,10 @@
-# tmux
-my tmux conf
+## Based on https://github.com/tmux/tmux
 
-dependencies - 
-netstat,
-numfmt,
-agnoster(theme)
+
+# Dependencies
+* netstat
+* numfmt
+* agnoster(theme)
+
+# extended tmux conf
+./tmux.conf
